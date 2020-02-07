@@ -14,7 +14,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"frutta":"pera"},
+      "properties": {"frutta":"pERa"},
       "geometry": {
         "type": "Point",
         "coordinates": [
