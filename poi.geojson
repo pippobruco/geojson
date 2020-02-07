@@ -1,4 +1,7 @@
 {
+  "posts": [
+ 
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -47,3 +50,4 @@
     }
   ]
 }
+    ]}
