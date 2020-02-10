@@ -14,7 +14,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"frutta":"pera", "title" :"PERA"},
+      "properties": {"frutta":"pera", "title" :"PERA", "icon":"https://cdn4.iconfinder.com/data/icons/contact-us-19/48/35-512.png"},
       "geometry": {
         "type": "Point",
         "coordinates": [
