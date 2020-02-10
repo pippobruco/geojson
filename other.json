@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {},
+      "style" :{ "fillColor":"red"}
       "geometry": {
         "type": "Polygon",
         "coordinates": [
