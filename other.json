@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"fillColor":"red"},      
+      "properties": {"fillColor":"red", "title":"I'm red filled"},      
       "geometry": {
         "type": "Polygon",
         "coordinates": [
