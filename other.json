@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"fillColor":"red", "title":"I'm red filled"},      
+      "properties": {
+        "fillColor": "red",
+        "title": "I'm red filled"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -38,7 +41,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Grandissimo Fiume della Vita"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76,6 +81,54 @@
               34.30714385628804
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.625,
+            -56.55948248376223
+          ],
+          [
+            120.9375,
+            -56.55948248376223
+          ],
+          [
+            165.9375,
+            -48.92249926375823
+          ],
+          [
+            200.390625,
+            -32.54681317351514
+          ],
+          [
+            263.671875,
+            -32.54681317351514
+          ],
+          [
+            315.70312499999994,
+            -15.28418511407642
+          ],
+          [
+            315,
+            -3.513421045640032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.625,
+          72.81607371878991
         ]
       }
     }
