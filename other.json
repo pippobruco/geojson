@@ -42,7 +42,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grandissimo Fiume della Vita"
+        "title": "Grandissimo Lago della Vita"
       },
       "geometry": {
         "type": "Polygon",
@@ -86,7 +86,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"title":"Grandissimo Fiume della Vita"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
