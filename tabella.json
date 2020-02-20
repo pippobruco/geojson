@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "value1": 100,
+    "value2": "Banane",
+    "value3": true
+  },
+  {
+    "id": 2,
+    "value1": 80,
+    "value2": "Mele",
+    "value3": true
+  },
+  {
+    "id": 3,
+    "value1": 200,
+    "value2": "Pere",
+    "value3": false
+  }
+]
