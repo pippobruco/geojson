@@ -9,7 +9,10 @@
     "id": 2,
     "value1": 80,
     "value2": "Mele",
-    "value3": true
+    "value3": [
+      {qty1:22},
+      {qty2:33}
+    ]
   },
   {
     "id": 3,
