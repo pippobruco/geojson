@@ -1,47 +1,51 @@
-[
-  {
-    "id": 1,
-    "value1": 100,
-    "value2": "Banane",
-    "value3": [
-      {"qty1":222,"qty2":"banane"},
-      {"qty1":2224,"qty2":"pere"}
-    ]
-  },
-  {
-    "id": 2,
-    "value1": 80,
-    "value2": "Mele",
-    "value3": [
-      {"qty1":12.3,"qty2":"banane"},
-      {"qty1":2224,"qty2":"mele"}
-    ]
-  },
-  {
-    "id": 3,
-    "value1": 200,
-    "value2": "Pere",
-    "value3": [
-      {"qty1":13,"qty2":""},
-      {"qty1":2224,"qty2":"angurie"}
-    ]
-  },
-  {
-    "id": 4,
-    "value1": 200,
-    "value2": "Pere",
-    "value3": [
-      {"qty1":13,"qty2":""},
-      {"qty1":2224,"qty2":"angurie"}
-    ]
-  },
-  {
-    "id": 5,
-    "value1": 200,
-    "value2": "Pere",
-    "value3": [
-      {"qty1":13,"qty2":""},
-      {"qty1":2224,"qty2":"angurie"}
-    ]
-  }
-]
+{
+  "linea": "A",
+  "children": 
+              [    
+                {
+                  "id": 1,
+                  "value1": 100,
+                  "value2": "Banane",
+                  "value3": [
+                    {"qty1":222,"qty2":"banane"},
+                    {"qty1":2224,"qty2":"pere"}
+                  ]
+                },
+                {
+                  "id": 2,
+                  "value1": 80,
+                  "value2": "Mele",
+                  "value3": [
+                    {"qty1":12.3,"qty2":"banane"},
+                    {"qty1":2224,"qty2":"mele"}
+                  ]
+                },
+                {
+                  "id": 3,
+                  "value1": 200,
+                  "value2": "Pere",
+                  "value3": [
+                    {"qty1":13,"qty2":""},
+                    {"qty1":2224,"qty2":"angurie"}
+                  ]
+                },
+                {
+                  "id": 4,
+                  "value1": 200,
+                  "value2": "Pere",
+                  "value3": [
+                    {"qty1":13,"qty2":""},
+                    {"qty1":2224,"qty2":"angurie"}
+                  ]
+                },
+                {
+                  "id": 5,
+                  "value1": 200,
+                  "value2": "Pere",
+                  "value3": [
+                    {"qty1":13,"qty2":""},
+                    {"qty1":2224,"qty2":"angurie"}
+                  ]
+                }
+              ]
+}
