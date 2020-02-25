@@ -67,7 +67,7 @@
          "podesc":"desc33",
          "batch":"13:40",
          "pallet":1212,
-         "quarantine.material":"",
+         "quarantine.material":"-",
          "quarantine.pp":122,                  
          "activation":"12:40"
      }   
