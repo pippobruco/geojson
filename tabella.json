@@ -27,6 +27,17 @@
         "activation":"14:40"
     },
     {
+        "po":"2332323",
+        "podesc":"desc",
+        "batch":"12:40",
+        "pallet":121,
+        "quarantine.material":"material d",
+        "quarantine.pp":12,                  
+        "activation":"14:40"
+    },
+    
+    
+    {
         "po":"32323",
         "podesc":"desc",
         "batch":"13:40",
