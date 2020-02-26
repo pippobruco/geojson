@@ -160,7 +160,8 @@
          "batch":"13:40",
          "pallet":1212,
          "quarantine.material":"-",
-         "quarantine.pp":122     
+         "quarantine.pp":122,
+            "activation":"dssdss"
         },
     {
          "po":"63",
